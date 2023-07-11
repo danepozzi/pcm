@@ -1,0 +1,297 @@
+08:40:40	3.445	False	S
+08:41:11	3.445	False	S
+08:41:44	3.434	False	S
+08:42:15	3.431	False	S
+08:42:46	3.428	False	S
+08:43:20	3.420	False	S
+08:43:53	3.424	False	S
+08:44:24	3.435	False	S
+08:44:55	3.434	False	S
+08:45:26	3.431	False	S
+08:45:59	3.433	False	S
+08:46:30	3.415	False	S
+08:47:02	3.416	False	S
+08:47:33	3.418	False	S
+08:48:04	3.427	False	S
+08:48:36	3.411	False	S
+08:49:07	3.421	False	S
+08:49:38	3.416	False	S
+08:50:10	3.418	False	S
+08:50:42	3.416	False	S
+08:51:13	3.409	False	S
+08:51:45	3.416	False	S
+08:52:18	3.415	False	S
+08:52:49	3.415	False	S
+08:53:20	3.413	False	S
+08:53:52	3.400	False	S
+08:54:23	3.404	False	S
+08:54:54	3.405	False	S
+08:55:25	3.397	False	S
+08:55:56	3.406	False	S
+08:56:27	3.409	False	S
+08:56:59	3.410	False	S
+08:57:30	3.407	False	S
+08:58:01	3.403	False	S
+08:58:32	3.397	False	S
+08:59:04	3.408	False	S
+08:59:35	3.405	False	S
+09:00:06	3.406	False	S
+09:00:37	3.405	False	S
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+09:01:09	3.407	False	S
+09:01:28	3.405	False	S
+09:01:40	3.403	False	S
+09:02:11	3.402	False	S
+09:02:42	3.388	False	S
+09:03:13	3.389	False	S
+09:03:45	3.398	False	S
+09:04:16	3.399	False	S
+09:04:47	3.397	False	S
+09:05:18	3.393	False	S
+09:05:49	3.387	False	S
+09:06:20	3.378	False	S
+09:06:52	3.387	False	S
+09:07:23	3.389	False	S
+09:07:54	3.385	False	S
+09:08:25	3.389	False	S
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+09:08:56	3.389	False	S
+09:09:28	3.375	False	S
+09:09:59	3.385	False	S
+09:10:30	3.394	False	S
+09:11:01	3.397	False	S
+09:11:32	3.394	False	S
+09:12:04	3.395	False	S
+09:12:35	3.393	False	S
+09:13:06	3.395	False	S
+09:13:37	3.391	False	S
+09:14:09	3.390	False	S
+09:14:42	3.391	False	S
+09:15:15	3.390	False	S
+09:15:47	3.388	False	S
+09:16:18	3.389	False	S
+09:16:49	3.389	False	S
+09:17:20	3.386	False	S
+09:17:51	3.387	False	S
+09:18:23	3.385	False	S
+09:18:54	3.386	False	S
+09:19:25	3.384	False	S
+09:19:56	3.383	False	S
+09:20:27	3.383	False	S
+09:20:59	3.383	False	S
+09:21:32	3.380	False	S
+09:22:03	3.379	False	S
+09:22:35	3.377	False	S
+09:23:06	3.376	False	S
+09:23:39	3.376	False	S
+09:24:10	3.375	False	S
+09:24:41	3.374	False	S
+09:25:15	3.374	False	S
+09:25:46	3.374	False	S
+09:26:17	3.371	False	S
+09:26:48	3.372	False	S
+09:27:19	3.369	False	S
+09:27:51	3.369	False	S
+09:28:22	3.366	False	S
+09:28:55	3.363	False	S
+09:29:28	3.362	False	S
+09:30:00	3.359	False	S
+09:30:31	3.354	False	S
+09:31:04	3.355	False	S
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+09:49:21	4.018	False	S
+09:49:52	4.017	False	S
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+11:03:22	4.131	True	P
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+14:26:37	3.979	True	P
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+14:28:19	3.976	True	P
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+14:29:24	3.970	True	P
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+14:31:25	3.964	True	P
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+14:32:56	3.969	True	P
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+14:34:12	3.962	True	P
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+14:36:46	3.965	True	P
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+14:39:15	3.959	True	P
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+14:41:46	3.955	True	P
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+14:44:29	3.948	True	P
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+14:47:32	3.938	True	P
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+15:03:08	3.910	True	P
+15:03:38	3.908	True	P
+15:04:09	3.910	True	P
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+15:10:16	3.899	True	P
+15:10:47	3.886	True	P
+15:11:17	3.871	True	P
+15:11:47	3.859	True	P
+15:12:17	3.877	True	P
+15:12:48	3.870	True	P
+15:13:18	3.865	True	P
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+17:57:23	3.753	True	P
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+17:59:48	3.749	True	P
+18:00:19	3.730	True	P
+18:00:54	3.730	True	P
+-----------------------------------------------
+System booted wiht PCM OFF (shutdown is False)
+-----------------------------------------------
+TIME		VOLT	SUN		STATE
+18:16:42	3.725	True	P
+18:17:19	3.710	True	P
+18:17:49	3.699	True	P
+18:18:20	3.705	True	P
+18:18:51	3.702	True	P
+18:19:22	3.707	True	P
+18:19:52	3.697	True	P
+18:20:23	3.701	True	P
+18:20:54	3.701	True	P
+18:21:25	3.708	True	P
+18:21:56	3.714	True	P
+18:22:27	3.707	True	P
+18:22:57	3.716	True	P
+18:23:28	3.716	True	P
+18:23:58	3.696	True	P
+18:24:29	3.695	True	P
+18:25:00	3.692	True	P
+18:25:30	3.702	True	P
+18:26:03	3.689	True	P
+18:26:34	3.689	True	P
+18:27:30	3.688	True	P
+18:28:15	3.682	True	P
+18:28:45	3.698	True	P
+18:29:16	3.698	True	P
+18:29:47	3.695	True	P
+18:30:18	3.683	True	P
+18:30:49	3.704	True	P
+18:31:22	3.699	True	P
+18:31:53	3.685	True	P
+18:32:27	3.683	True	P
+18:32:57	3.701	True	P
+18:33:30	3.691	True	P
+18:34:01	3.689	True	P
+18:34:32	3.689	True	P
+18:35:06	3.683	True	P
+18:35:37	3.702	True	P
+18:36:07	3.683	True	P
+18:36:37	3.695	True	P
+18:37:08	3.696	True	P
+18:37:38	3.704	True	P
+18:38:08	3.694	True	P
+18:38:38	3.686	True	P
+18:39:08	3.689	True	P
+18:39:39	3.702	True	P
+18:40:09	3.684	True	P
+18:40:39	3.682	True	P
+18:41:09	3.682	True	P
+18:41:40	3.695	True	P
+18:42:10	3.679	True	P
+18:42:40	3.683	True	P
+18:43:11	3.679	True	P

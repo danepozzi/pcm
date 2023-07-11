@@ -1,0 +1,1 @@
+s.waitForBoot{ {Out.ar(0, WhiteNoise.ar(0.01)!2) }.play };

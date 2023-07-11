@@ -1,0 +1,1 @@
+s.waitForBoot{ {(RunningSum.ar(SoundIn.ar([0,1]).squared, 1024) / 1024).sqrt.poll }.play };
